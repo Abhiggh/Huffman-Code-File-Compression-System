@@ -22,6 +22,7 @@ Data compression is essential in storage optimization, communication systems, an
 # 📈 Key Results
 
 |Metric          |   Value           |
+|:--                              --:|
 |Compression Type|   Lossless        | 
 |Algorithm       |   Huffman Encoding|
 |Data Integrity  |   100% preserved  |
