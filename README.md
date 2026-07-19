@@ -11,19 +11,19 @@ Data compression is essential in storage optimization, communication systems, an
 
 # ⚙️ How It Works
 
-Step 1 → Read input text file
-Step 2 → Calculate frequency of each character
-Step 3 → Build Huffman Tree using Priority Queue
-Step 4 → Generate unique binary codes for each character
-Step 5 → Encode text and write to .huff file (bit-level)
-Step 6 → Decode .huff file back to original text
-Step 7 → Verify data integrity
+- Step 1 → Read input text file
+- Step 2 → Calculate frequency of each character
+- Step 3 → Build Huffman Tree using Priority Queue
+- Step 4 → Generate unique binary codes for each character
+- Step 5 → Encode text and write to .huff file (bit-level)
+- Step 6 → Decode .huff file back to original text
+- Step 7 → Verify data integrity
 
 # 📈 Key Results
 
--  Metric                   Value
-- Compression Type           Lossless
-- Algorithm                  Huffman Encoding
-- Data Integrity             100% preserved
-- File Format                .huff (binary)
+|Metric          |   Value           |
+|Compression Type|   Lossless        | 
+|Algorithm       |   Huffman Encoding|
+|Data Integrity  |   100% preserved  |
+|File Format     |   .huff (binary)  |
 
