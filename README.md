@@ -2,7 +2,7 @@
 A lossless data compression tool built in Java using the Huffman Encoding Algorithm. This project compresses text files into binary .huff files and decompresses them back to the original — preserving complete data integrity.
 
 # 📌 About the Project
-Data compression is essential in storage optimization, communication systems, and real-time data transmission. This project implements the Huffman encoding algorithm from scratch, demonstrating how frequently occurring characters are assigned shorter binary codes to reduce overall file size.
+Data compression is essential in storage optimization, communication systems, and real-time data transmission. This project implements the Huffman encoding algorithm from scratch, demonstrating how frequently occurring characters are assigned shorter binary codes to reduce overall file size. 
 
 # 🛠️ Technologies Used
 - Language: Java
