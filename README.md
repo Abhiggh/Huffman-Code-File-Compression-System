@@ -21,9 +21,9 @@ Step 7 → Verify data integrity
 
 # 📈 Key Results
 
-  Metric                   Value
-Compression Type           Lossless
-Algorithm                  Huffman Encoding
-Data Integrity             100% preserved
-File Format                .huff (binary)
+-  Metric                   Value
+- Compression Type           Lossless
+- Algorithm                  Huffman Encoding
+- Data Integrity             100% preserved
+- File Format                .huff (binary)
 
