@@ -5,9 +5,9 @@ A lossless data compression tool built in Java using the Huffman Encoding Algori
 Data compression is essential in storage optimization, communication systems, and real-time data transmission. This project implements the Huffman encoding algorithm from scratch, demonstrating how frequently occurring characters are assigned shorter binary codes to reduce overall file size.
 
 # 🛠️ Technologies Used
-Language: Java
-Concepts: Huffman Encoding, Binary Trees, Priority Queue, Bit-level I/O
-File I/O: BufferedReader, BitInputStream, BitOutputStream
+- Language: Java
+- Concepts: Huffman Encoding, Binary Trees, Priority Queue, Bit-level I/O
+- File I/O: BufferedReader, BitInputStream, BitOutputStream
 
 # ⚙️ How It Works
 
